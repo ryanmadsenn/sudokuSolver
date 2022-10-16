@@ -6,7 +6,7 @@ This is my in-progress sudoku solving tool written in node.js and react. It uses
 
 I wanted to write this software to make it easy to enter a sudoku board and view solution.
 
-[Demo Video](https://youtu.be/dAJyiCvCebc](https://youtu.be/VUZfyhl8hSg)
+[Demo Video](https://youtu.be/VUZfyhl8hSg)
 
 # Development Environment
 
