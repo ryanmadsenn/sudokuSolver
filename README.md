@@ -4,7 +4,7 @@
 
 This is my in-progress sudoku solving tool written in node.js and react. It uses a recursive backtracking algorithm to solve any valid sudoku board.  
 
-I wanted to write this software to make it easy to enter a sudoku board and view solution.
+I wanted to write this software to make it easy to enter a sudoku board and view the solution.
 
 [Demo Video](https://youtu.be/VUZfyhl8hSg)
 
